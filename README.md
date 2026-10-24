@@ -1,14 +1,19 @@
 # Java GUI Shapes
 
 ## Overview
-A university project developed using Java to practice drawing geometric shapes through a graphical user interface (GUI).
+A Java application developed as a university project to practice drawing geometric shapes through a graphical user interface (GUI).
+
+## Features
+- Java classes for different geometric shapes.
+- GUI-based drawing functionality.
 
 ## Technologies
 - Java
 - Graphical User Interface (GUI)
 
-## Purpose
-This project was created as part of my learning journey to practice Java programming and GUI development.
+## Learning Objectives
+- Practice Java programming.
+- Explore object-oriented programming concepts through shape-related classes.
 
 ## My Contribution
-Contributed to writing the Java code for the project.
+Contributed to writing the Java code as part of the university project.
